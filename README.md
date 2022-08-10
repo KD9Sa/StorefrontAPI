@@ -6,6 +6,9 @@ An API to manage a store's operations using PostgreSQL database.
 
 ## Get Started
 
+**Database Port**: 5432
+**Server Port**: 3000
+
 To get started running and testing this project apply the following steps:
 
 1. Create two databases called '**storefront**' and '**storefront_test**'.
